@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+a {
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    border-radius: 6px;
+    background: #6464eb;
+    padding: 10px;
+}
+
+h1 {
+    background: indianred;
+    height: 60px;
+    color: #fff;
+    position: sticky;
+    top: 0;
+}
